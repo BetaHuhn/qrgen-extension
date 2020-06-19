@@ -6,6 +6,9 @@
 
 This repo contains the browser extension for both Chrome and Firefox. It is build with Vue.js and uses the qrgen.cc API to create short URLs. The code for the website and API can be found [here](https://github.com/BetaHuhn/qrgen).
 
+## Usage
+Once installed, you just have to click the green QR-Code icon in your browser bar, or simply press the keyboard shortcut CTRL+Q to create the QR-Code and short URL.
+
 ## Installation
 
 Download the repo:
