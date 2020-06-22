@@ -2,6 +2,10 @@
 
 > qrgen.cc is a free service that lets you create QR-Codes and shortened URLs from any link quickly and easily.
 
+Install the extension from the [Firefox Add-ons site](https://addons.mozilla.org/en-US/firefox/addon/qrgen-cc/).
+
+On Chrome you have to build the extension manually (see below) or use the pre-packaged version which can be found on the [releases tab](https://github.com/BetaHuhn/qrgen-extension/releases)
+
 ## Introduction
 
 This repo contains the browser extension for both Chrome and Firefox. It is build with Vue.js and uses the qrgen.cc API to create short URLs. The code for the website and API can be found [here](https://github.com/BetaHuhn/qrgen).
@@ -9,7 +13,7 @@ This repo contains the browser extension for both Chrome and Firefox. It is buil
 ## Usage
 Once installed, you just have to click the green QR-Code icon in your browser bar, or simply press the keyboard shortcut CTRL+Q to create the QR-Code and short URL.
 
-## Installation
+## Building the extension
 
 Download the repo:
 
